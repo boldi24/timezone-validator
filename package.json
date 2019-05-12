@@ -12,6 +12,10 @@
     "validator",
     "timezonevalidator"
   ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/boldi24/timezone-validator"
+  },
   "author": "Boldizsar Tompe",
   "license": "MIT",
   "devDependencies": {
