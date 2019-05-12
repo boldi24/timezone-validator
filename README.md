@@ -1,7 +1,7 @@
-# This is a timezone validator that is on npm.
-Link: https://www.npmjs.com/package/timezone-validator
+# NPM package that let's you check if a timezone is a valid zone.
+NPM Link: https://www.npmjs.com/package/timezone-validator
 
-In my blog I wrote about how I created this: https://idlob.dev/blog/create-npm-package/
+Check out my blog: https://idlob.dev/blog/create-npm-package/
 
 Example usage:
 

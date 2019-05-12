@@ -1,6 +1,6 @@
 {
   "name": "timezone-validator",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "This module is for testing if a given string is a valid timezone",
   "main": "index.js",
   "scripts": {
